@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0905-sort-array-by-parity](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0905-sort-array-by-parity) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Hash Table
 |  |
@@ -35,4 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Two Pointers
+|  |
+| ------- |
+| [0905-sort-array-by-parity](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0905-sort-array-by-parity) |
+## Sorting
+|  |
+| ------- |
+| [0905-sort-array-by-parity](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0905-sort-array-by-parity) |
 <!---LeetCode Topics End-->
