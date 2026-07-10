@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0905-sort-array-by-parity](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0905-sort-array-by-parity) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Union-Find
 |  |
 | ------- |
@@ -36,12 +38,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Two Pointers
 |  |
 | ------- |
 | [0905-sort-array-by-parity](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0905-sort-array-by-parity) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0905-sort-array-by-parity](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0905-sort-array-by-parity) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Greedy
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->
