@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0088-merge-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0643-maximum-average-subarray-i) |
 | [0905-sort-array-by-parity](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0905-sort-array-by-parity) |
@@ -57,11 +58,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0088-merge-sorted-array](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0088-merge-sorted-array) |
 | [0905-sort-array-by-parity](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0905-sort-array-by-parity) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0088-merge-sorted-array) |
 | [0905-sort-array-by-parity](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0905-sort-array-by-parity) |
 | [1331-rank-transform-of-an-array](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1331-rank-transform-of-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/2089-find-target-indices-after-sorting-array) |
