@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2090-k-radius-subarray-averages](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/2090-k-radius-subarray-averages) |
 | [2233-maximum-product-after-k-increments](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/2233-maximum-product-after-k-increments) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Hash Table
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
 |  |
@@ -110,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
