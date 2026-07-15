@@ -50,11 +50,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
 |  |
 | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -91,10 +93,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/2685-count-the-number-of-complete-components) |
 ## Enumeration
 |  |
