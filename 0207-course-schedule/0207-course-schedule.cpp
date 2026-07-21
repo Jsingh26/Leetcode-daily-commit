@@ -1,40 +1,40 @@
 class Solution {
 public:
-    bool dfs(int node, vector<vector<int>>& adj, vector<int>& state) {
-
-        if (state[node] == 1)
-            return true;    // cycle
-
-        if (state[node] == 2)
-            return false;
-
-        state[node] = 1;
-
-        for (int neigh : adj[node]) {
-            if (dfs(neigh, adj, state))
-                return true;
-        }
-
-        state[node] = 2;
-
-        return false;
-    }
-
     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
-
         vector<vector<int>> adj(numCourses);
+        vector<int> indegree(numCourses, 0);
 
         for (auto &p : prerequisites) {
-            adj[p[1]].push_back(p[0]);
+            int course = p[0];
+            int prereq = p[1];
+
+            adj[prereq].push_back(course);
+            indegree[course]++;
         }
 
-        vector<int> state(numCourses, 0);
+        queue<int> q;
 
         for (int i = 0; i < numCourses; i++) {
-            if (dfs(i, adj, state))
-                return false;
+            if (indegree[i] == 0)
+                q.push(i);
         }
 
-        return true;
+        int count = 0;
+
+        while (!q.empty()) {
+            int node = q.front();
+            q.pop();
+
+            count++;
+
+            for (int neigh : adj[node]) {
+                indegree[neigh]--;
+
+                if (indegree[neigh] == 0)
+                    q.push(neigh);
+            }
+        }
+
+        return count == numCourses;
     }
 };
