@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0210-course-schedule-ii) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/2685-count-the-number-of-complete-components) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0338-counting-bits](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0338-counting-bits) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0357-count-numbers-with-unique-digits) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0787-cheapest-flights-within-k-stops) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0210-course-schedule-ii) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/2685-count-the-number-of-complete-components) |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0210-course-schedule-ii) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/2685-count-the-number-of-complete-components) |
@@ -148,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2233-maximum-product-after-k-increments](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/2233-maximum-product-after-k-increments) |
 ## Linked List
 |  |
@@ -199,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
