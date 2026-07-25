@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0583-delete-operation-for-two-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [2678-number-of-senior-citizens](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/2678-number-of-senior-citizens) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2090-k-radius-subarray-averages](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/2090-k-radius-subarray-averages) |
 | [2233-maximum-product-after-k-increments](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/2233-maximum-product-after-k-increments) |
+| [2678-number-of-senior-citizens](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/2678-number-of-senior-citizens) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/3501-maximize-active-section-with-trade-ii) |
