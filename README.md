@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0101-symmetric-tree) |
 | [0207-course-schedule](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0210-course-schedule-ii) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0094-binary-tree-inorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0102-binary-tree-level-order-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0404-sum-of-left-leaves) |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0102-binary-tree-level-order-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0404-sum-of-left-leaves) |
