@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0357-count-numbers-with-unique-digits](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0357-count-numbers-with-unique-digits) |
+| [0486-predict-the-winner](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0628-maximum-product-of-three-numbers) |
 | [1137-n-th-tribonacci-number](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1137-n-th-tribonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0239-sliding-window-maximum) |
 | [0349-intersection-of-two-arrays](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0349-intersection-of-two-arrays) |
 | [0474-ones-and-zeroes](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0643-maximum-average-subarray-i) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0338-counting-bits) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0357-count-numbers-with-unique-digits) |
 | [0474-ones-and-zeroes](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0486-predict-the-winner) |
 | [0583-delete-operation-for-two-strings](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0583-delete-operation-for-two-strings) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1137-n-th-tribonacci-number](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1137-n-th-tribonacci-number) |
@@ -307,4 +310,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
