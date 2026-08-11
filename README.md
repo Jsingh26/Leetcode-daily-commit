@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0349-intersection-of-two-arrays) |
 | [0474-ones-and-zeroes](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0486-predict-the-winner) |
+| [0496-next-greater-element-i](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0525-contiguous-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0643-maximum-average-subarray-i) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0049-group-anagrams) |
 | [0349-intersection-of-two-arrays](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0349-intersection-of-two-arrays) |
+| [0496-next-greater-element-i](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0525-contiguous-array) |
 | [0567-permutation-in-string](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -303,10 +305,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0094-binary-tree-inorder-traversal) |
+| [0496-next-greater-element-i](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0496-next-greater-element-i) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0496-next-greater-element-i) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Matrix
 |  |
