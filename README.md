@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0011-container-with-most-water) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0049-group-anagrams) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0088-merge-sorted-array) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0011-container-with-most-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2233-maximum-product-after-k-increments](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/2233-maximum-product-after-k-increments) |
