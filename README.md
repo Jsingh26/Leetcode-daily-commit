@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0349-intersection-of-two-arrays) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0042-trapping-rain-water) |
 | [0338-counting-bits](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0338-counting-bits) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0357-count-numbers-with-unique-digits) |
 | [0474-ones-and-zeroes](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0474-ones-and-zeroes) |
@@ -307,12 +310,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0094-binary-tree-inorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0496-next-greater-element-i) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0496-next-greater-element-i) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Matrix
