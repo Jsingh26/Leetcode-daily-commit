@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2233-maximum-product-after-k-increments](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/2233-maximum-product-after-k-increments) |
 | [2399-check-distances-between-same-letters](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/2399-check-distances-between-same-letters) |
 | [2678-number-of-senior-citizens](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/2678-number-of-senior-citizens) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1331-rank-transform-of-an-array](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1331-rank-transform-of-an-array) |
 | [2399-check-distances-between-same-letters](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/2399-check-distances-between-same-letters) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/3312-sorted-gcd-pair-queries) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0643-maximum-average-subarray-i) |
 | [2090-k-radius-subarray-averages](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/2090-k-radius-subarray-averages) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
