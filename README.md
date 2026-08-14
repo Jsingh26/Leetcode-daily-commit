@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0006-zigzag-conversion) |
 | [0049-group-anagrams](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0049-group-anagrams) |
+| [0402-remove-k-digits](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0402-remove-k-digits) |
 | [0474-ones-and-zeroes](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0474-ones-and-zeroes) |
 | [0567-permutation-in-string](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0583-delete-operation-for-two-strings) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0011-container-with-most-water) |
+| [0402-remove-k-digits](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0402-remove-k-digits) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2233-maximum-product-after-k-increments](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/2233-maximum-product-after-k-increments) |
@@ -320,12 +322,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0094-binary-tree-inorder-traversal) |
+| [0402-remove-k-digits](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0496-next-greater-element-i) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0496-next-greater-element-i) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Matrix
