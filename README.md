@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0525-contiguous-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0643-maximum-average-subarray-i) |
+| [0739-daily-temperatures](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0739-daily-temperatures) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0853-car-fleet](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0853-car-fleet) |
 | [0877-stone-game](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0877-stone-game) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0094-binary-tree-inorder-traversal) |
 | [0402-remove-k-digits](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0853-car-fleet) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0853-car-fleet) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Matrix
