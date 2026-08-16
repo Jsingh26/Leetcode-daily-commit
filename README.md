@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/2029-stone-game-ix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2090-k-radius-subarray-averages](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/2090-k-radius-subarray-averages) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0402-remove-k-digits) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [2029-stone-game-ix](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/2029-stone-game-ix) |
 | [2233-maximum-product-after-k-increments](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/2233-maximum-product-after-k-increments) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -321,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -424,18 +428,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/2029-stone-game-ix) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -465,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
