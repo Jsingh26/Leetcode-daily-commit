@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0006-zigzag-conversion) |
+| [0022-generate-parentheses](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0079-word-search) |
 | [0402-remove-k-digits](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0402-remove-k-digits) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0042-trapping-rain-water) |
 | [0338-counting-bits](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0338-counting-bits) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0357-count-numbers-with-unique-digits) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0040-combination-sum-ii) |
 | [0079-word-search](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0079-word-search) |
@@ -514,4 +517,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
