@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0131-palindrome-partitioning) |
 | [0402-remove-k-digits](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0402-remove-k-digits) |
 | [0474-ones-and-zeroes](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0474-ones-and-zeroes) |
 | [0567-permutation-in-string](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0567-permutation-in-string) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0042-trapping-rain-water) |
+| [0131-palindrome-partitioning](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0131-palindrome-partitioning) |
 | [0338-counting-bits](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0338-counting-bits) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0357-count-numbers-with-unique-digits) |
 | [0474-ones-and-zeroes](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0474-ones-and-zeroes) |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0040-combination-sum-ii) |
 | [0079-word-search](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0131-palindrome-partitioning) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0357-count-numbers-with-unique-digits) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Segment Tree
