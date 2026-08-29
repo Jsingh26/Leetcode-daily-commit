@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2233-maximum-product-after-k-increments](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/2233-maximum-product-after-k-increments) |
 | [2399-check-distances-between-same-letters](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/2399-check-distances-between-same-letters) |
 | [2678-number-of-senior-citizens](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/2678-number-of-senior-citizens) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0130-surrounded-regions) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/2685-count-the-number-of-complete-components) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
 |  |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/3517-smallest-palindromic-rearrangement-i) |
