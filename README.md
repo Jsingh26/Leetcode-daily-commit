@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0131-palindrome-partitioning) |
+| [0392-is-subsequence](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0402-remove-k-digits) |
 | [0474-ones-and-zeroes](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0474-ones-and-zeroes) |
 | [0567-permutation-in-string](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0567-permutation-in-string) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0131-palindrome-partitioning) |
 | [0338-counting-bits](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0338-counting-bits) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0357-count-numbers-with-unique-digits) |
+| [0392-is-subsequence](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0392-is-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0486-predict-the-winner) |
 | [0583-delete-operation-for-two-strings](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0583-delete-operation-for-two-strings) |
