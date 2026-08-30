@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1140-stone-game-ii) |
+| [1155-number-of-dice-rolls-with-target-sum](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1406-stone-game-iii](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1563-stone-game-v) |
