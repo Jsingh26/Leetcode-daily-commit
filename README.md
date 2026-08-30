@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/2029-stone-game-ix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2090-k-radius-subarray-averages](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/2090-k-radius-subarray-averages) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2233-maximum-product-after-k-increments](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/2233-maximum-product-after-k-increments) |
 | [2399-check-distances-between-same-letters](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/2399-check-distances-between-same-letters) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1927-sum-game](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2233-maximum-product-after-k-increments](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/2233-maximum-product-after-k-increments) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
