@@ -363,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Number Theory
 |  |
 | ------- |
