@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0357-count-numbers-with-unique-digits) |
 | [0486-predict-the-winner](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0486-predict-the-winner) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0051-n-queens) |
+| [0066-plus-one](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
