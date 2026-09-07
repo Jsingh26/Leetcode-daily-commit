@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0647-palindromic-substrings) |
+| [0940-distinct-subsequences-ii](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1927-sum-game](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1927-sum-game) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0940-distinct-subsequences-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1140-stone-game-ii) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1155-number-of-dice-rolls-with-target-sum) |
