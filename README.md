@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0877-stone-game) |
+| [0973-k-closest-points-to-origin](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0973-k-closest-points-to-origin) |
 | [1137-n-th-tribonacci-number](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1406-stone-game-iii) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0853-car-fleet) |
 | [0877-stone-game](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0905-sort-array-by-parity) |
+| [0973-k-closest-points-to-origin](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1046-last-stone-weight) |
 | [1140-stone-game-ii](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1260-shift-2d-grid) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0853-car-fleet](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0853-car-fleet) |
 | [0905-sort-array-by-parity](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0905-sort-array-by-parity) |
+| [0973-k-closest-points-to-origin](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0973-k-closest-points-to-origin) |
 | [1331-rank-transform-of-an-array](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -382,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0239-sliding-window-maximum) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0973-k-closest-points-to-origin](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2233-maximum-product-after-k-increments](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/2233-maximum-product-after-k-increments) |
@@ -575,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0973-k-closest-points-to-origin](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0973-k-closest-points-to-origin) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -604,4 +609,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0051-n-queens) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0973-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
