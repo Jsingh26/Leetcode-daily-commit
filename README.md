@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0835-image-overlap](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0835-image-overlap) |
 | [0853-car-fleet](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0853-car-fleet) |
 | [0877-stone-game](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0905-sort-array-by-parity) |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0130-surrounded-regions) |
+| [0835-image-overlap](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1260-shift-2d-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Backtracking
