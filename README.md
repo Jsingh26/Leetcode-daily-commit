@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1563-stone-game-v) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1872-stone-game-viii](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1872-stone-game-viii) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1331-rank-transform-of-an-array](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2399-check-distances-between-same-letters](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/2399-check-distances-between-same-letters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0349-intersection-of-two-arrays) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/3312-sorted-gcd-pair-queries) |
@@ -298,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1140-stone-game-ii) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1406-stone-game-iii](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1563-stone-game-v) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1578-minimum-time-to-make-rope-colorful) |
@@ -394,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0643-maximum-average-subarray-i) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2090-k-radius-subarray-averages](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/2090-k-radius-subarray-averages) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
