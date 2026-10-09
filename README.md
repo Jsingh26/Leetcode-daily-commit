@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1927-sum-game](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1927-sum-game](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/2029-stone-game-ix) |
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0853-car-fleet) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -640,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0022-generate-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Algorithm X
 |  |
 | ------- |
