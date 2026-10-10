@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0006-zigzag-conversion) |
+| [0010-regular-expression-matching](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0079-word-search) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0042-trapping-rain-water) |
 | [0115-distinct-subsequences](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0115-distinct-subsequences) |
@@ -570,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0010-regular-expression-matching) |
 | [0486-predict-the-winner](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0486-predict-the-winner) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/3483-unique-3-digit-even-numbers) |
 ## Game Theory
