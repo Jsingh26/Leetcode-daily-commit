@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0525-contiguous-array) |
+| [0605-can-place-flowers](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0402-remove-k-digits) |
+| [0605-can-place-flowers](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0605-can-place-flowers) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
