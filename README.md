@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0357-count-numbers-with-unique-digits) |
+| [0483-smallest-good-base](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0483-smallest-good-base) |
 | [0486-predict-the-winner](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0836-rectangle-overlap) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0349-intersection-of-two-arrays) |
+| [0483-smallest-good-base](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0483-smallest-good-base) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/2333-minimum-sum-of-squared-difference) |
