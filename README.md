@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0835-image-overlap](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0835-image-overlap) |
 | [0853-car-fleet](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0853-car-fleet) |
+| [0875-koko-eating-bananas](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0905-sort-array-by-parity) |
 | [0973-k-closest-points-to-origin](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0973-k-closest-points-to-origin) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0349-intersection-of-two-arrays) |
 | [0483-smallest-good-base](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0483-smallest-good-base) |
+| [0875-koko-eating-bananas](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/0875-koko-eating-bananas) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Jsingh26/Leetcode-daily-commit/tree/master/2333-minimum-sum-of-squared-difference) |
